@@ -1,0 +1,11 @@
+digraph G {
+bottle -> boob;
+bottle -> bowl;
+chair -> bottle;
+microwave -> chicken;
+microwave -> pillow;
+rice -> microwave;
+sock -> scissor;
+rice -> sock;
+chair -> rice;
+}
